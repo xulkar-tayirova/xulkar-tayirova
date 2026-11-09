@@ -63,7 +63,7 @@ Participant in a nanosatellite development program for girls and young women acr
 
 🗺️ #30DayMapChallenge Uzbekistan
 
-Currently exploring geospatial technologies and cartography through daily mapping projects.
+Participating in a community geospatial mapping initiative and exploring GIS, remote sensing, cartography, satellite imagery, and spatial analysis through practical mapping projects and tutorials.
 
 
 🌱 UNDP Future of Work Academy
